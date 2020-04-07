@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.css": "/PortfolioV3/static/css/main.fbcaf320.chunk.css",
-    "main.js": "/PortfolioV3/static/js/main.a4e6dffa.chunk.js",
-    "main.js.map": "/PortfolioV3/static/js/main.a4e6dffa.chunk.js.map",
+    "main.css": "/PortfolioV3/static/css/main.a7797383.chunk.css",
+    "main.js": "/PortfolioV3/static/js/main.65505ba4.chunk.js",
+    "main.js.map": "/PortfolioV3/static/js/main.65505ba4.chunk.js.map",
     "runtime-main.js": "/PortfolioV3/static/js/runtime-main.2a36e7a7.js",
     "runtime-main.js.map": "/PortfolioV3/static/js/runtime-main.2a36e7a7.js.map",
-    "static/js/2.1f8c66ca.chunk.js": "/PortfolioV3/static/js/2.1f8c66ca.chunk.js",
-    "static/js/2.1f8c66ca.chunk.js.map": "/PortfolioV3/static/js/2.1f8c66ca.chunk.js.map",
+    "static/css/2.9d31bb0b.chunk.css": "/PortfolioV3/static/css/2.9d31bb0b.chunk.css",
+    "static/js/2.bad72f97.chunk.js": "/PortfolioV3/static/js/2.bad72f97.chunk.js",
+    "static/js/2.bad72f97.chunk.js.map": "/PortfolioV3/static/js/2.bad72f97.chunk.js.map",
     "index.html": "/PortfolioV3/index.html",
-    "precache-manifest.0970ba6fa488b1db40c7f74988ff84fa.js": "/PortfolioV3/precache-manifest.0970ba6fa488b1db40c7f74988ff84fa.js",
+    "precache-manifest.64fdedf76ffa582105708c16ce646244.js": "/PortfolioV3/precache-manifest.64fdedf76ffa582105708c16ce646244.js",
     "service-worker.js": "/PortfolioV3/service-worker.js",
-    "static/css/main.fbcaf320.chunk.css.map": "/PortfolioV3/static/css/main.fbcaf320.chunk.css.map",
-    "static/js/2.1f8c66ca.chunk.js.LICENSE.txt": "/PortfolioV3/static/js/2.1f8c66ca.chunk.js.LICENSE.txt",
+    "static/css/2.9d31bb0b.chunk.css.map": "/PortfolioV3/static/css/2.9d31bb0b.chunk.css.map",
+    "static/css/main.a7797383.chunk.css.map": "/PortfolioV3/static/css/main.a7797383.chunk.css.map",
+    "static/js/2.bad72f97.chunk.js.LICENSE.txt": "/PortfolioV3/static/js/2.bad72f97.chunk.js.LICENSE.txt",
     "static/media/boxe.webp": "/PortfolioV3/static/media/boxe.4313a8b4.webp",
     "static/media/casquette.jpg": "/PortfolioV3/static/media/casquette.80e03f64.jpg",
+    "static/media/font-awesome.min.css": "/PortfolioV3/static/media/fontawesome-webfont.fee66e71.woff",
     "static/media/philippines.png": "/PortfolioV3/static/media/philippines.298200cd.png",
     "static/media/profil3.png": "/PortfolioV3/static/media/profil3.b75710b9.png",
     "static/media/road.png": "/PortfolioV3/static/media/road.a4e8ff3f.png",
@@ -21,8 +24,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.2a36e7a7.js",
-    "static/js/2.1f8c66ca.chunk.js",
-    "static/css/main.fbcaf320.chunk.css",
-    "static/js/main.a4e6dffa.chunk.js"
+    "static/css/2.9d31bb0b.chunk.css",
+    "static/js/2.bad72f97.chunk.js",
+    "static/css/main.a7797383.chunk.css",
+    "static/js/main.65505ba4.chunk.js"
   ]
 }
