@@ -6,6 +6,12 @@ https://github.com/public-apis/public-apis
 
 https://github.com/15Dkatz/official_joke_api
 
+## dependencies used:
+• classnames (style / style module)
+• font-awesome (icons)
+• react-router-dom (router)
+• react-spring (page transition)
+
 ```javascript
 "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
