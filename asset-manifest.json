@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/PortfolioV3/static/css/main.f5fcfcc9.chunk.css",
-    "main.js": "/PortfolioV3/static/js/main.68c29ebe.chunk.js",
-    "main.js.map": "/PortfolioV3/static/js/main.68c29ebe.chunk.js.map",
+    "main.css": "/PortfolioV3/static/css/main.b474ed8f.chunk.css",
+    "main.js": "/PortfolioV3/static/js/main.38ed5316.chunk.js",
+    "main.js.map": "/PortfolioV3/static/js/main.38ed5316.chunk.js.map",
     "runtime-main.js": "/PortfolioV3/static/js/runtime-main.2a36e7a7.js",
     "runtime-main.js.map": "/PortfolioV3/static/js/runtime-main.2a36e7a7.js.map",
     "static/css/2.9d31bb0b.chunk.css": "/PortfolioV3/static/css/2.9d31bb0b.chunk.css",
-    "static/js/2.2507a381.chunk.js": "/PortfolioV3/static/js/2.2507a381.chunk.js",
-    "static/js/2.2507a381.chunk.js.map": "/PortfolioV3/static/js/2.2507a381.chunk.js.map",
+    "static/js/2.2c256272.chunk.js": "/PortfolioV3/static/js/2.2c256272.chunk.js",
+    "static/js/2.2c256272.chunk.js.map": "/PortfolioV3/static/js/2.2c256272.chunk.js.map",
     "index.html": "/PortfolioV3/index.html",
-    "precache-manifest.fb8ccfcbf2bdddebf3a74b44abe4b794.js": "/PortfolioV3/precache-manifest.fb8ccfcbf2bdddebf3a74b44abe4b794.js",
+    "precache-manifest.4ad3d67930ea78ecf60f111e2eae3f76.js": "/PortfolioV3/precache-manifest.4ad3d67930ea78ecf60f111e2eae3f76.js",
     "service-worker.js": "/PortfolioV3/service-worker.js",
     "static/css/2.9d31bb0b.chunk.css.map": "/PortfolioV3/static/css/2.9d31bb0b.chunk.css.map",
-    "static/css/main.f5fcfcc9.chunk.css.map": "/PortfolioV3/static/css/main.f5fcfcc9.chunk.css.map",
-    "static/js/2.2507a381.chunk.js.LICENSE.txt": "/PortfolioV3/static/js/2.2507a381.chunk.js.LICENSE.txt",
+    "static/css/main.b474ed8f.chunk.css.map": "/PortfolioV3/static/css/main.b474ed8f.chunk.css.map",
+    "static/js/2.2c256272.chunk.js.LICENSE.txt": "/PortfolioV3/static/js/2.2c256272.chunk.js.LICENSE.txt",
     "static/media/boxe.jpg": "/PortfolioV3/static/media/boxe.6d880209.jpg",
+    "static/media/boxeMin.jpg": "/PortfolioV3/static/media/boxeMin.aab725c6.jpg",
     "static/media/casquette.jpg": "/PortfolioV3/static/media/casquette.80e03f64.jpg",
     "static/media/font-awesome.min.css": "/PortfolioV3/static/media/fontawesome-webfont.fee66e71.woff",
     "static/media/philippines.png": "/PortfolioV3/static/media/philippines.298200cd.png",
@@ -25,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.2a36e7a7.js",
     "static/css/2.9d31bb0b.chunk.css",
-    "static/js/2.2507a381.chunk.js",
-    "static/css/main.f5fcfcc9.chunk.css",
-    "static/js/main.68c29ebe.chunk.js"
+    "static/js/2.2c256272.chunk.js",
+    "static/css/main.b474ed8f.chunk.css",
+    "static/js/main.38ed5316.chunk.js"
   ]
 }

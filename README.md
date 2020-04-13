@@ -1,4 +1,4 @@
-# Porfolio using React js native
+# Porfolio using React js
 
 ## api used:
 https://github.com/public-apis/public-apis
