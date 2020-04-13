@@ -17,6 +17,8 @@ https://github.com/15Dkatz/official_joke_api
 
 • react-image (loading img anim)
 
+https://codepen.io/jzonn/pen/qBOdQQb
+
 ```javascript
 "dependencies": {
   "@testing-library/jest-dom": "^4.2.4",
