@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/PortfolioV3/static/css/main.c33fb85e.chunk.css",
-    "main.js": "/PortfolioV3/static/js/main.8610cda4.chunk.js",
-    "main.js.map": "/PortfolioV3/static/js/main.8610cda4.chunk.js.map",
+    "main.css": "/PortfolioV3/static/css/main.938121cc.chunk.css",
+    "main.js": "/PortfolioV3/static/js/main.661d365b.chunk.js",
+    "main.js.map": "/PortfolioV3/static/js/main.661d365b.chunk.js.map",
     "runtime-main.js": "/PortfolioV3/static/js/runtime-main.2a36e7a7.js",
     "runtime-main.js.map": "/PortfolioV3/static/js/runtime-main.2a36e7a7.js.map",
     "static/css/2.9d31bb0b.chunk.css": "/PortfolioV3/static/css/2.9d31bb0b.chunk.css",
-    "static/js/2.4eb44b02.chunk.js": "/PortfolioV3/static/js/2.4eb44b02.chunk.js",
-    "static/js/2.4eb44b02.chunk.js.map": "/PortfolioV3/static/js/2.4eb44b02.chunk.js.map",
+    "static/js/2.0619107f.chunk.js": "/PortfolioV3/static/js/2.0619107f.chunk.js",
+    "static/js/2.0619107f.chunk.js.map": "/PortfolioV3/static/js/2.0619107f.chunk.js.map",
     "index.html": "/PortfolioV3/index.html",
-    "precache-manifest.6b0b0e18facc07d5e14e3c44f21fc7ae.js": "/PortfolioV3/precache-manifest.6b0b0e18facc07d5e14e3c44f21fc7ae.js",
+    "precache-manifest.2d599ac8442427e97131ff6a343a0754.js": "/PortfolioV3/precache-manifest.2d599ac8442427e97131ff6a343a0754.js",
     "service-worker.js": "/PortfolioV3/service-worker.js",
     "static/css/2.9d31bb0b.chunk.css.map": "/PortfolioV3/static/css/2.9d31bb0b.chunk.css.map",
-    "static/css/main.c33fb85e.chunk.css.map": "/PortfolioV3/static/css/main.c33fb85e.chunk.css.map",
-    "static/js/2.4eb44b02.chunk.js.LICENSE.txt": "/PortfolioV3/static/js/2.4eb44b02.chunk.js.LICENSE.txt",
+    "static/css/main.938121cc.chunk.css.map": "/PortfolioV3/static/css/main.938121cc.chunk.css.map",
+    "static/js/2.0619107f.chunk.js.LICENSE.txt": "/PortfolioV3/static/js/2.0619107f.chunk.js.LICENSE.txt",
     "static/media/boxe.jpg": "/PortfolioV3/static/media/boxe.6d880209.jpg",
     "static/media/casquette.jpg": "/PortfolioV3/static/media/casquette.80e03f64.jpg",
     "static/media/font-awesome.min.css": "/PortfolioV3/static/media/fontawesome-webfont.fee66e71.woff",
@@ -25,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.2a36e7a7.js",
     "static/css/2.9d31bb0b.chunk.css",
-    "static/js/2.4eb44b02.chunk.js",
-    "static/css/main.c33fb85e.chunk.css",
-    "static/js/main.8610cda4.chunk.js"
+    "static/js/2.0619107f.chunk.js",
+    "static/css/main.938121cc.chunk.css",
+    "static/js/main.661d365b.chunk.js"
   ]
 }
