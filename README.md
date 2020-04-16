@@ -13,7 +13,7 @@ https://github.com/15Dkatz/official_joke_api
 
 • react-router-dom (router)
 
-• react-spring (page transition)
+• react-spring (animations)
 
 • react-image (loading img anim)
 
