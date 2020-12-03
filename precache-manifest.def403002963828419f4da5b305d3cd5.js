@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cdb87b2af94caf7a3aace189224271ff",
+    "revision": "246f3a8e0937c8b2a0cc1adf0819d300",
     "url": "/PortfolioV3/index.html"
   },
   {
-    "revision": "95a328d6f665be603cbd",
+    "revision": "989cbf4aaf2c06831d38",
     "url": "/PortfolioV3/static/css/2.9d31bb0b.chunk.css"
   },
   {
-    "revision": "a0d29d393a512d10286d",
-    "url": "/PortfolioV3/static/css/main.c7c17eb3.chunk.css"
+    "revision": "5090291b5ea827792e27",
+    "url": "/PortfolioV3/static/css/main.b795191d.chunk.css"
   },
   {
-    "revision": "95a328d6f665be603cbd",
-    "url": "/PortfolioV3/static/js/2.1cae6573.chunk.js"
+    "revision": "989cbf4aaf2c06831d38",
+    "url": "/PortfolioV3/static/js/2.840c1088.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/PortfolioV3/static/js/2.1cae6573.chunk.js.LICENSE.txt"
+    "url": "/PortfolioV3/static/js/2.840c1088.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a0d29d393a512d10286d",
-    "url": "/PortfolioV3/static/js/main.0893e4f1.chunk.js"
+    "revision": "5090291b5ea827792e27",
+    "url": "/PortfolioV3/static/js/main.9941e85d.chunk.js"
   },
   {
     "revision": "4125d253f053223848be",
@@ -34,6 +34,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "80e03f64668a81a5aa7593d3b56e19c0",
     "url": "/PortfolioV3/static/media/casquette.80e03f64.jpg"
+  },
+  {
+    "revision": "b9d7411e547f8cfd89320e6fd73314c4",
+    "url": "/PortfolioV3/static/media/clip_boxe.b9d7411e.png"
+  },
+  {
+    "revision": "2b97bb2164ce822b50f443863e5abd68",
+    "url": "/PortfolioV3/static/media/clip_casquette.2b97bb21.png"
+  },
+  {
+    "revision": "75cba2e27484add945cc4f4f36a6660c",
+    "url": "/PortfolioV3/static/media/clip_philippines.75cba2e2.png"
+  },
+  {
+    "revision": "3fc2a06064f19c311767b43d6e052e39",
+    "url": "/PortfolioV3/static/media/clip_road.3fc2a060.png"
   },
   {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
