@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/PortfolioV3/static/css/main.556f3e42.chunk.css",
-    "main.js": "/PortfolioV3/static/js/main.ec31b29d.chunk.js",
-    "main.js.map": "/PortfolioV3/static/js/main.ec31b29d.chunk.js.map",
+    "main.css": "/PortfolioV3/static/css/main.8438927c.chunk.css",
+    "main.js": "/PortfolioV3/static/js/main.ece80a95.chunk.js",
+    "main.js.map": "/PortfolioV3/static/js/main.ece80a95.chunk.js.map",
     "runtime-main.js": "/PortfolioV3/static/js/runtime-main.0d487573.js",
     "runtime-main.js.map": "/PortfolioV3/static/js/runtime-main.0d487573.js.map",
     "static/css/2.b1e9d1ce.chunk.css": "/PortfolioV3/static/css/2.b1e9d1ce.chunk.css",
-    "static/js/2.c43ed036.chunk.js": "/PortfolioV3/static/js/2.c43ed036.chunk.js",
-    "static/js/2.c43ed036.chunk.js.map": "/PortfolioV3/static/js/2.c43ed036.chunk.js.map",
+    "static/js/2.d0cb46e2.chunk.js": "/PortfolioV3/static/js/2.d0cb46e2.chunk.js",
+    "static/js/2.d0cb46e2.chunk.js.map": "/PortfolioV3/static/js/2.d0cb46e2.chunk.js.map",
     "index.html": "/PortfolioV3/index.html",
     "static/css/2.b1e9d1ce.chunk.css.map": "/PortfolioV3/static/css/2.b1e9d1ce.chunk.css.map",
-    "static/css/main.556f3e42.chunk.css.map": "/PortfolioV3/static/css/main.556f3e42.chunk.css.map",
-    "static/js/2.c43ed036.chunk.js.LICENSE.txt": "/PortfolioV3/static/js/2.c43ed036.chunk.js.LICENSE.txt",
+    "static/css/main.8438927c.chunk.css.map": "/PortfolioV3/static/css/main.8438927c.chunk.css.map",
+    "static/js/2.d0cb46e2.chunk.js.LICENSE.txt": "/PortfolioV3/static/js/2.d0cb46e2.chunk.js.LICENSE.txt",
     "static/media/boxe.jpg": "/PortfolioV3/static/media/boxe.32e8fba2.jpg",
     "static/media/casquette.jpg": "/PortfolioV3/static/media/casquette.36799736.jpg",
     "static/media/clip_boxe.png": "/PortfolioV3/static/media/clip_boxe.2d49f5b6.png",
@@ -20,15 +20,15 @@
     "static/media/clip_road.png": "/PortfolioV3/static/media/clip_road.5b34c49e.png",
     "static/media/font-awesome.min.css": "/PortfolioV3/static/media/fontawesome-webfont.f691f37e.woff",
     "static/media/philippines.png": "/PortfolioV3/static/media/philippines.977cbd96.png",
-    "static/media/profil3.49715aa0.png": "/PortfolioV3/static/media/profil3.49715aa0.png",
+    "static/media/profile_n_b.c0be7d74.jpg": "/PortfolioV3/static/media/profile_n_b.c0be7d74.jpg",
     "static/media/road.png": "/PortfolioV3/static/media/road.78acba27.png",
     "static/media/wp_blog.png": "/PortfolioV3/static/media/wp_blog.3f516038.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0d487573.js",
     "static/css/2.b1e9d1ce.chunk.css",
-    "static/js/2.c43ed036.chunk.js",
-    "static/css/main.556f3e42.chunk.css",
-    "static/js/main.ec31b29d.chunk.js"
+    "static/js/2.d0cb46e2.chunk.js",
+    "static/css/main.8438927c.chunk.css",
+    "static/js/main.ece80a95.chunk.js"
   ]
 }
